@@ -1,6 +1,7 @@
 *
 !.gitignore
 !*.c
+!README.md
 !info.txt
 test.c
 
